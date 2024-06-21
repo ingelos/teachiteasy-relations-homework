@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TechiteasyHomeworkApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(TechiteasyHomeworkApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(TechiteasyHomeworkApplication.class, args);
+	}
 
 }
